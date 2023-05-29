@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Scientist Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Data Scientist Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="intro">
+        <h2>About Me</h2>
+        <p>I am a passionate data scientist with expertise in machine learning, data analysis, and data visualization.</p>
+        <p>My educational background includes a degree in Computer Science and certifications in various data science domains.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Customer Churn Prediction</h3>
+            <p>A machine learning project to predict customer churn in a telecommunications company. Achieved 85% accuracy using a random forest classifier.</p>
+            <p>Technologies used: Python, scikit-learn, pandas, matplotlib</p>
+            <a href="https://github.com/your_username/customer-churn-prediction" target="_blank">GitHub Repository</a>
+        </div>
+        <div class="project">
+            <h3>Sales Forecasting</h3>
+            <p>An analysis of historical sales data and development of a time series forecasting model. Provided accurate predictions for future sales trends.</p>
+            <p>Technologies used: R, forecasting packages</p>
+            <a href="https://github.com/your_username/sales-forecasting" target="_blank">GitHub Repository</a>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>R</li>
+            <li>SQL</li>
+            <li>Machine Learning (scikit-learn, TensorFlow)</li>
+            <li>Data Visualization (matplotlib, Tableau)</li>
+            <li>Statistical Analysis</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <p>Company Name, Data Scientist, 2018 - Present</p>
+        <p>Company Name, Data Analyst, 2016 - 2018</p>
+    </section>
+
+    <footer>
+        <p>Contact: your_email@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/your_username" target="_blank">your_username</a></p>
+    </footer>
+</body>
+</html>
